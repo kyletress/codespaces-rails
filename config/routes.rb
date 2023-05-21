@@ -1,3 +1,9 @@
 Rails.application.routes.draw do
-  root "hello#index"
+  resources :stats
+  resources :teams
+  resources :games
+  resources :athletes
+  resources :sports
+  root "concepts#index"
+  resources :concepts
 end

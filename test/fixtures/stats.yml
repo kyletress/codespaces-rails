@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  athlete: one
+  concept: one
+  game: one
+  value: 9.99
+
+two:
+  athlete: two
+  concept: two
+  game: two
+  value: 9.99
